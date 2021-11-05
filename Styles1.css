@@ -1,0 +1,35 @@
+h2{
+	color: rgb(202, 150, 248) ;
+	font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+body{
+	background-color: rgb(221, 191, 248) ;
+	}
+figure{
+     	margin-right:2.50rem ;
+		margin-bottom:0.25rem ;
+		margin-left:0.25rem ;
+	  }   
+	  hr {
+		border-top: 7px dotted rgb(238, 139, 241);
+	  }
+table{
+	width: 500px ;
+	border-left: 3px solid rgb(119, 7, 91);
+	border-right: 3px solid rgb(119, 7, 91);
+    border-bottom: 3px solid rgb(119, 7, 91) ;
+    border-top: 3px solid rgb(119, 7, 91) ;
+}
+th ,td{
+	padding: 10px 10px 10px
+}
+tr:hover{
+	background-color: violet;
+}
+th{
+	text-align: left;
+	border-bottom: 2px solid rgb(119, 7, 91);
+	border-top: 2px solid rgb(119, 7, 91) ;
+	border-left: 2px solid rgb(119, 7, 91);
+    border-right: 2px solid rgb(119, 7, 91);
+}
